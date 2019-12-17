@@ -1,7 +1,6 @@
-10
 xi
 x9i
-i 
+i
 9i
 c2x2i
 4c8x8i
